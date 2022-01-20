@@ -1,0 +1,61 @@
+# Site settings
+title: Embedded AI for NIMEs
+email: f.s.caspe@qmul.ac.uk
+description: >
+  Worshop Proposal for NIME 2022
+  Embedded AI for NIMEs: Challenges and Opportunities
+lang: en-US
+
+baseurl: "" # the subpath of your site, e.g. /blog/ - In this case no subpath - go directly to index.html
+url: https://embedded-ai-for-nimes.github.io/# the base hostname & protocol for your site
+git_address: https://github.com/embedded-ai-for-nimes/embedded-ai-for-nimes.github.io
+git_edit_address: https://github.com/embedded-ai-for-nimes/embedded-ai-for-nimes.github.io/blob/gh-pages
+
+# font sizes at: _sass/bootswatch/paper/_variables.scss
+# theme options from https://bootswatch.com/3/
+# comment out this to use default Bootstrap
+bootwatch: paper # cerulean cosmo custom cyborg darkly flatly journal lumen readable sandstone simplex slate solar spacelab superhero united yeti
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+# Plugins (previously gems:)
+plugins:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+  - vendor
+timezone: Europe/London
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
