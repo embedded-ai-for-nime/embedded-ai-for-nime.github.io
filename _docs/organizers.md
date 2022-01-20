@@ -1,5 +1,5 @@
 ---
 title: Organizers
-permalink: /organizers
+permalink: /organizers/
 sectionid: organizers
 ---

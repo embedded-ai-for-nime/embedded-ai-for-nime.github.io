@@ -1,6 +1,6 @@
 ---
 title: Proceedings
-permalink: /proceedings
+permalink: /proceedings/
 sectionid: proceedings
 ---
 

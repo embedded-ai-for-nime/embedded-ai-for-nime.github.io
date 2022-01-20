@@ -1,6 +1,6 @@
 ---
 title: Panelists
-permalink: /panelists
+permalink: /panelists/
 sectionid: panelists
 ---
 
