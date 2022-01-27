@@ -32,6 +32,8 @@ I am a PhD researcher at the Artificial Intelligence and Music CDT and a member 
 
 *Centre for Digital Music, Queen Mary University of London, a.benitotemprano@qmul.ac.uk*
 
+I am a PhD researcher from the Augmented Instruments Laboratory at the Centre for Digital Music in QMUL,  and a member of the Artificial Intelligence and Music CDT. I am also part of the active development team of the Bela platform and have an active interest in the development of new hardware tools for  music-making. I graduated as a Telecommunications Engineer from the University of Cantabria with an MSc in Radio Communications and hold an MSc in Sound and Music Computing from QMUL. My current research focuses on the creation of gestural models fusing representations from sensor  and audio domains and their application to instrument augmentation. I also have an interest in all guitar-related technologies and the cultures that surround them.
+
 ### Jack Armitage
 
 *Intelligent Instruments Lab, Iceland University of the Arts, jack@lhi.is*
