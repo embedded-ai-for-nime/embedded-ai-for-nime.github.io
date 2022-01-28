@@ -1,15 +1,14 @@
 # Site settings
-title: Embedded AI for NIMEs
+title: Embedded AI for NIME
 email: f.s.caspe@qmul.ac.uk
 description: >
-  Worshop Proposal for NIME 2022
-  Embedded AI for NIMEs: Challenges and Opportunities
+  Embedded AI for NIME: Challenges and Opportunities
 lang: en-US
 
 baseurl: "" # the subpath of your site, e.g. /blog/ - In this case no subpath - go directly to index.html
-url: https://embedded-ai-for-nimes.github.io/# the base hostname & protocol for your site
-git_address: https://github.com/embedded-ai-for-nimes/embedded-ai-for-nimes.github.io
-git_edit_address: https://github.com/embedded-ai-for-nimes/embedded-ai-for-nimes.github.io/blob/gh-pages
+url: https://embedded-ai-for-nime.github.io/# the base hostname & protocol for your site
+git_address: https://github.com/embedded-ai-for-nime/embedded-ai-for-nime.github.io
+git_edit_address: https://github.com/embedded-ai-for-nime/embedded-ai-for-nime.github.io/blob/gh-pages
 
 # font sizes at: _sass/bootswatch/paper/_variables.scss
 # theme options from https://bootswatch.com/3/
