@@ -9,7 +9,8 @@
         <div id="navbar" class="collapse navbar-collapse">
             <ul class="nav navbar-nav">
                 <li {% if page.sectionid=='about' %} class="active" {% endif %}><a href="{{ "/about/" | relative_url }}">About</a></li>
-                <li {% if page.sectionid=='organisers' %} class="active" {% endif %}><a href="{{ "/organisers/" | relative_url }}">Organisers</a></li>                                
+                <li {% if page.sectionid=='organisers' %} class="active" {% endif %}><a href="{{ "/organisers/" | relative_url }}">Organisers</a></li>
+                <li {% if page.sectionid=='relevant_links' %} class="active" {% endif %}><a href="{{ "/relevant_links/" | relative_url }}">Relevant Links</a></li>
             </ul>
             <div class="navbar-right">
             </div>
