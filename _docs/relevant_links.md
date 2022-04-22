@@ -54,3 +54,7 @@ We are interested in testing these compilers in Bela.
 #### <b>Curated list of ML papers applied to DSP</b>
 [https://github.com/GuitarML/mldsp-papers](https://github.com/GuitarML/mldsp-papers)  
 <br>
+
+#### <b>Get in touch :)</b>
+We use the <b>Intelligent Instruments Lab</b> [Discord server](https://discord.gg/fY9GYMebtJ)  
+(look for the *#embedded* channel)
