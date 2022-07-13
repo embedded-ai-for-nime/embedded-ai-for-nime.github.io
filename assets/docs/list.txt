@@ -1,0 +1,11 @@
+A1 Hanslip - Classification and Neural Audio Synthesis on a Raspberry Pi.pdf
+A2 Zappi and Tatar – The Neuralacoustics Project.pdf
+A3 Stefani – Embedded Real-Time Expressive Guitar Technique Recognition.pdf
+A4 Hantrakul –  DDSP Here, There and Everywhere.pdf
+A5 Martin – Embedding Embodied Music Generation.pdf
+B1 Pierce –  Bela AI Toolbench.pdf
+B2 Diaz – Deep Learning for Bela.pdf
+B3 Alcorn – Tensil.ai.pdf
+B4 Martelloni – Real-time DNN-based analysis at audio rate.pdf
+B5 Caspe – Real-time FM tone transfer with Bela.pdf
+list.txt

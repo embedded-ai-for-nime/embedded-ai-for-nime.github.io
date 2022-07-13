@@ -1,0 +1,12 @@
+a1_hanslip.pdf
+a2_zappi_tatar.pdf
+a3_stefani.pdf
+a4_hantrakul.pdf
+a5_martin.pdf
+b1_pierce.pdf
+b2_diaz.pdf
+b3_alcorn.pdf
+b4_martelloni.pdf
+b5_caspe.pdf
+list2.txt
+list.txt
